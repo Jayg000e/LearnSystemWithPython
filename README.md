@@ -11,6 +11,8 @@ CopyOnWrite (COW) : CopyOnWriteFileSystem.py
 
 ## Monitor and Semaphore Usage
 
+Using monitor and semaphore to solve Bounded Buffer problem, Dining Philosopher problem and ReaderWriter problem
+
 BoundedBufferMonitorSolution.py
 
 BoundedBufferSemaphoreSolution.py
