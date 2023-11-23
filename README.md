@@ -7,7 +7,7 @@ Oversimplified examples of the common appoaches to solve crash-consistency probl
 
 Journaling a.k.a Write Ahead Logging (WAL) : JournalingFileSystem.py
 
-CopyOnWrite (COW) : CopyOnWriteFileSstem.py
+CopyOnWrite (COW) : CopyOnWriteFileSystem.py
 
 ## Monitor and Semaphore Usage
 
