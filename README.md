@@ -3,7 +3,7 @@ Simple examples of operating system, distributed sytem and database system conce
 
 ## Two Phase Commit
 
-Demonstration of how two phase commit protocal works in distributed system: TwoPhaseCommit.py
+Demonstration of how two phase commit protocol works in distributed system: TwoPhaseCommit.py
 
 ## Multiversion Concurrency Control （MVCC）
 
