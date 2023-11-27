@@ -1,5 +1,4 @@
 # LearnSystemWithPython
-About
 Simple examples of operating system, distributed sytem and database system concepts in python
 
 ## Two Phase Commit
