@@ -1,5 +1,6 @@
-# LearnOSWithPython
-Simple examples of operating system concepts in python
+# LearnSystemWithPython
+About
+Simple examples of operating system, distributed sytem and database system concepts in python
 
 ## Journaling File System and CopyOnWrite File System
 
